@@ -1,4 +1,4 @@
-# Contract Analysis and Unfair Clause Generator 📜
+# Contract Analysis and Unfair Clause Generator 
 
 이 프로젝트는 PDF 또는 JSON 형식의 하도급 계약서를 분석하고, 표준 계약서와 비교하여 불공정 조항을 식별하거나 생성하는 도구입니다. AWS Bedrock의 LLM(Claude 모델), Chroma 벡터 DB, HuggingFace 임베딩 모델을 활용하여 계약서를 처리하고 분석합니다.
 
