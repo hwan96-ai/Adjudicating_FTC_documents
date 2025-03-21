@@ -43,7 +43,7 @@
 
 ## 사용법📋
 1. **원본 계약서 VectorDB 생성 및 불공정 계약서 생성성** 🗄️
-   setup.py를 통해 data/file에 있는 원본 하도급 PDF 처리, 벡터 DB 생성, 불공정 계약서(json으로로) 생성을 한 번에 실행할 수 있습니다
+   setup.py를 통해 data/file에 있는 원본 하도급 PDF 처리, 벡터 DB 생성, 불공정 계약서(output > json) 생성을 한 번에 실행할 수 있습니다
    `python setup.py`
    
 3. **전체 파이프라인 실행**▶️
@@ -95,11 +95,12 @@
    - 파일 경로 오류 📍: 절대 경로를 사용하거나 data/file/에 파일을 배치하세요.
 
 
-## 연락처 📧
-    문의 사항은 hjh1210@saltware.co.kr로 연락 주세요.
-
 ### 개선 포인트🌟
    1. **Hwp to PDF**📑: [공정거래위원회](https://www.ftc.go.kr/www/selectBbsNttList.do?bordCd=202&key=203) 에서 다운 받은 하도급 문서들 hwp to pdf 구현 
    2. **OCR 기능 추가가**🔎: OCR을 통해 실제 사용자의 문서를 넣고 불공정 계약인지 파악하는 기능 추가
    3. **법률 조항 추가가**📚: 불공정 계약이라 판단된 곳은 법률 조항까지 넣어서 설명해주는 기능 추가
+
+
+## 연락처 📧
+    문의 사항은 hjh1210@saltware.co.kr로 연락 주세요.
 
