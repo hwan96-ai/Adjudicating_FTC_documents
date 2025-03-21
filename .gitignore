@@ -1,5 +1,5 @@
  
-venv/ 
+doc/ 
 .env 
 data/ 
 analysis_results/ 
@@ -10,4 +10,3 @@ __pycache__/
 *.pyd 
 *.log 
 code/ 
-doc/ 
