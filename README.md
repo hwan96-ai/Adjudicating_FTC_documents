@@ -16,17 +16,21 @@
 ## 설치 방법
 
 1. **리포지토리 클론**
-   `git clone https://github.com/yourusername/contract-analyzer.git`
-2. **가상 환경 생성 및 활성화**
+```bash
+   git clone https://github.com/hwan96-ai/Adjudicating_FTC_documents.git
+   cd Adjudicating_FTC_documents
+```
+3. **가상 환경 생성 및 활성화**
 ```bash 
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows 
 ```
-3. **환경 변수 설정**
+3. **의존성 설치**
     `pip install -r requirements.txt`
-4. **가상 환경 생성 및 활성화**
-    프로젝트 루트에 .env 파일을 생성하고 다음 내용을 추가하세요:
+4. **환경 변수 설정**
+   프로젝트 루트에 .env 파일을 생성하고 다음 내용을 추가하세요:
+
 ```bash    
     AWS_ACCESS_KEY_ID=your_access_key
     AWS_SECRET_ACCESS_KEY=your_secret_key
@@ -36,10 +40,12 @@ venv\Scripts\activate     # Windows
 
 ## 사용법
 1. **원본 계약서 VectorDB 생성 및 불공정 계약서 생성성**
-    setup.py를 통해 data/file에 있는 원본 하도급 PDF 처리, 벡터 DB 생성, 불공정 계약서 생성을 한 번에 실행할 수 있습니다
-2. **전체 파이프라인 실행**
-    main.py를 실행하여 사용자의 PDF 또는 JSON 파일을 분석합니다.
-3. **분석 결과 요약**
+   setup.py를 통해 data/file에 있는 원본 하도급 PDF 처리, 벡터 DB 생성, 불공정 계약서 생성을 한 번에 실행할 수 있습니다
+   `python setup.py`   
+3. **전체 파이프라인 실행**
+   main.py를 실행하여 사용자의 PDF 또는 JSON 파일을 분석합니다.
+   `python main.py`
+5. **분석 결과 요약**
     analyze_json.py를 실행하여 분석된 JSON 파일을 요약하고 Excel로 저장합니다.
 
     `python analyze_json.py`
@@ -88,7 +94,7 @@ venv\Scripts\activate     # Windows
     문의 사항은 hjh1210@saltware.co.kr로 연락 주세요.
 
 ### 개선 포인트
-1. **Hwp to PDF** [https://www.ftc.go.kr/www/selectBbsNttList.do?bordCd=202&key=203](URL) 에서 다운 받은 hwp to pdf 구현 
+1. **Hwp to PDF** [공정거래위원회](https://www.ftc.go.kr/www/selectBbsNttList.do?bordCd=202&key=203) 에서 다운 받은 하도급 문서들 hwp to pdf 구현 
 2. **OCR 기능 추가가**: OCR을 통해 실제 사용자의 문서를 넣고 불공정 계약인지 파악하는 기능 추가가
 3. **법률 조항 추가가**: 불공정 계약이라 판단된 곳은 법률 조항까지 넣어서 설명해주는 기능 추가가
 
