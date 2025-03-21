@@ -1,18 +1,13 @@
-# Python 관련 
+ 
+venv/ 
+.env 
+data/ 
+analysis_results/ 
+temp/ 
 __pycache__/ 
 *.pyc 
 *.pyo 
 *.pyd 
-.Python 
-*.egg-info/ 
- 
-# 가상환경 
-doc/ 
- 
-# 환경 변수 
-.env 
- 
-# 데이터베이스나 실행 결과물 
-data/vectordb/ 
-temp/ 
 *.log 
+code/ 
+doc/ 
