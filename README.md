@@ -19,15 +19,19 @@
    git clone https://github.com/hwan96-ai/Adjudicating_FTC_documents.git
    cd Adjudicating_FTC_documents
 ```
+
 3. **가상 환경 생성 및 활성화**🖥️
 ```bash 
    python -m venv venv
    source venv/bin/activate  # Linux/Mac
    venv\Scripts\activate     # Windows 
 ```
+
 3. **의존성 설치**📦
+   
     `pip install -r requirements.txt`
-4. **환경 변수 설정**🔑
+   
+5. **환경 변수 설정**🔑
    프로젝트 루트에 .env 파일을 생성하고 다음 내용을 추가하세요:
 
 ```bash    
