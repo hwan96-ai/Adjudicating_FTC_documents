@@ -40,18 +40,19 @@
 
 ## 사용법
 1. **원본 계약서 VectorDB 생성 및 불공정 계약서 생성성**
-   setup.py를 통해 data/file에 있는 원본 하도급 PDF 처리, 벡터 DB 생성, 불공정 계약서 생성을 한 번에 실행할 수 있습니다
-   `python setup.py`   
+   setup.py를 통해 data/file에 있는 원본 하도급 PDF 처리, 벡터 DB 생성, 불공정 계약서(json으로로) 생성을 한 번에 실행할 수 있습니다
+   `python setup.py`
+   
 3. **전체 파이프라인 실행**
    main.py를 실행하여 사용자의 PDF 또는 JSON 파일을 분석합니다.
    `python main.py`
+   
 5. **분석 결과 요약**
     analyze_json.py를 실행하여 분석된 JSON 파일을 요약하고 Excel로 저장합니다.
-
     `python analyze_json.py`
-
     analysis_results/ 폴더에서 JSON 파일을 선택합니다.
     요약 통계와 Excel 파일이 생성됩니다.
+
 
 ## 프로젝트 구조
     contract-analyzer/
@@ -67,10 +68,10 @@
     ├── document_to_db.py      # JSON을 벡터 DB로 변환
     ├── document_classifier.py # 문서 유형 분류
     ├── document_analyzer.py   # 계약서 분석
-    ├── unfair_contract_generator.py # 불공정 조항 생성 (구현 필요)
+    ├── unfair_contract_generator.py # 불공정 조항 생성
     ├── analyze_json.py        # 분석 결과 요약
     ├── main.py                # 메인 실행 스크립트
-    ├── setup.py               # 전체 파이프라인 실행 (구현 필요)
+    ├── setup.py               # data/file 안의 pdf를 vectordb까지 생성 및 data/file안의 pdf를 불공정계약서로 생성
     ├── .env                   # 환경 변수
     ├── requirements.txt       # 의존성 목록
     └── README.md              # 프로젝트 설명
