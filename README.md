@@ -22,9 +22,9 @@
 ```
 3. **가상 환경 생성 및 활성화**
 ```bash 
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-venv\Scripts\activate     # Windows 
+   python -m venv venv
+   source venv/bin/activate  # Linux/Mac
+   venv\Scripts\activate     # Windows 
 ```
 3. **의존성 설치**
     `pip install -r requirements.txt`
@@ -76,25 +76,25 @@ venv\Scripts\activate     # Windows
     └── README.md              # 프로젝트 설명
 
 ## 주요 모듈 설명
-- document_processor.py: PDF 파일을 구조화된 JSON으로 변환합니다.
-- document_classifier.py: 입력 문서의 유형을 LLM으로 분류합니다.
-- document_to_db.py: JSON 데이터를 Chroma 벡터 DB로 변환합니다.
-- document_analyzer.py: 사용자 문서를 표준 계약서와 비교하여 문제점을 분석합니다.
-- unfair_contract_generator.py: 불공정 조항을 생성합니다 (구현 필요 시 확인).
-- analyze_json.py: 분석 결과를 요약하고 Excel로 출력합니다.
-- main.py: 사용자 인터페이스로 분석을 실행합니다.
+   - document_processor.py: PDF 파일을 구조화된 JSON으로 변환합니다.
+   - document_classifier.py: 입력 문서의 유형을 LLM으로 분류합니다.
+   - document_to_db.py: JSON 데이터를 Chroma 벡터 DB로 변환합니다.
+   - document_analyzer.py: 사용자 문서를 표준 계약서와 비교하여 문제점을 분석합니다.
+   - unfair_contract_generator.py: 불공정 조항을 생성합니다 (구현 필요 시 확인).
+   - analyze_json.py: 분석 결과를 요약하고 Excel로 출력합니다.
+   - main.py: 사용자 인터페이스로 분석을 실행합니다.
 
 ## 문제 해결
-- AWS 인증 오류: .env 파일의 자격 증명을 확인하세요.
-- CUDA 관련 오류: GPU가 없으면 model_kwargs={"device": "cpu"}로 수정하세요.
-- 파일 경로 오류: 절대 경로를 사용하거나 data/file/에 파일을 배치하세요.
+   - AWS 인증 오류: .env 파일의 자격 증명을 확인하세요.
+   - CUDA 관련 오류: GPU가 없으면 model_kwargs={"device": "cpu"}로 수정하세요.
+   - 파일 경로 오류: 절대 경로를 사용하거나 data/file/에 파일을 배치하세요.
 
 
 ## 연락처
     문의 사항은 hjh1210@saltware.co.kr로 연락 주세요.
 
 ### 개선 포인트
-1. **Hwp to PDF** [공정거래위원회](https://www.ftc.go.kr/www/selectBbsNttList.do?bordCd=202&key=203) 에서 다운 받은 하도급 문서들 hwp to pdf 구현 
-2. **OCR 기능 추가가**: OCR을 통해 실제 사용자의 문서를 넣고 불공정 계약인지 파악하는 기능 추가가
-3. **법률 조항 추가가**: 불공정 계약이라 판단된 곳은 법률 조항까지 넣어서 설명해주는 기능 추가가
+   1. **Hwp to PDF** [공정거래위원회](https://www.ftc.go.kr/www/selectBbsNttList.do?bordCd=202&key=203) 에서 다운 받은 하도급 문서들 hwp to pdf 구현 
+   2. **OCR 기능 추가가**: OCR을 통해 실제 사용자의 문서를 넣고 불공정 계약인지 파악하는 기능 추가가
+   3. **법률 조항 추가가**: 불공정 계약이라 판단된 곳은 법률 조항까지 넣어서 설명해주는 기능 추가가
 
