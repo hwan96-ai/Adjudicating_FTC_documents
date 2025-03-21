@@ -1,0 +1,2323 @@
+{
+  "document_type": "9",
+  "document_title": "화학업종",
+  "total_objects": 89,
+  "problem_objects": [],
+  "analysis_results": [
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급계약서",
+        "장": "",
+        "절": "",
+        "조": "",
+        "쪽": 1
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급계약서",
+          "장": "",
+          "절": "",
+          "조": "",
+          "쪽": 1,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(표지)",
+        "장": "",
+        "절": "",
+        "조": "",
+        "쪽": 2
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(표지)",
+          "장": "",
+          "절": "",
+          "조": "",
+          "쪽": 2,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제1장 총칙",
+        "절": "",
+        "조": "제1조(목적)",
+        "쪽": 4
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제1장 총칙",
+          "절": "",
+          "조": "제1조(목적)",
+          "쪽": 4,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제1장 총칙",
+        "절": "",
+        "조": "제2조(정의)",
+        "쪽": 4
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제1장 총칙",
+          "절": "",
+          "조": "제2조(정의)",
+          "쪽": 4,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제1장 총칙",
+        "절": "",
+        "조": "제3조(계약의 기본원칙)",
+        "쪽": 4
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제1장 총칙",
+          "절": "",
+          "조": "제3조(계약의 기본원칙)",
+          "쪽": 4,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제2장 화학물의 제작 및 납품",
+        "절": "제1절 화학물의 제작 등",
+        "조": "제4조(제작협의 및 지시)",
+        "쪽": 5
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제2장 화학물의 제작 및 납품",
+          "절": "제1절 화학물의 제작 등",
+          "조": "제4조(제작협의 및 지시)",
+          "쪽": 5,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제2장 화학물의 제작 및 납품",
+        "절": "제1절 화학물의 제작 등",
+        "조": "제5조(도면, 시방서, 규격서, 사양서류의 관리)",
+        "쪽": 5
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제2장 화학물의 제작 및 납품",
+          "절": "제1절 화학물의 제작 등",
+          "조": "제5조(도면, 시방서, 규격서, 사양서류의 관리)",
+          "쪽": 5,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제2장 화학물의 제작 및 납품",
+        "절": "제1절 화학물의 제작 등",
+        "조": "제6조(목적물의 제작)",
+        "쪽": 5
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제2장 화학물의 제작 및 납품",
+          "절": "제1절 화학물의 제작 등",
+          "조": "제6조(목적물의 제작)",
+          "쪽": 5,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제2장 화학물의 제작 및 납품",
+        "절": "제1절 화학물의 제작 등",
+        "조": "제7조(견본제시)",
+        "쪽": 6
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제2장 화학물의 제작 및 납품",
+          "절": "제1절 화학물의 제작 등",
+          "조": "제7조(견본제시)",
+          "쪽": 6,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제2장 화학물의 제작 및 납품",
+        "절": "제1절 화학물의 제작 등",
+        "조": "제8조(시험검사)",
+        "쪽": 6
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제2장 화학물의 제작 및 납품",
+          "절": "제1절 화학물의 제작 등",
+          "조": "제8조(시험검사)",
+          "쪽": 6,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제2장 화학물의 제작 및 납품",
+        "절": "제1절 화학물의 제작 등",
+        "조": "제9조(중간검사)",
+        "쪽": 6
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제2장 화학물의 제작 및 납품",
+          "절": "제1절 화학물의 제작 등",
+          "조": "제9조(중간검사)",
+          "쪽": 6,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제2장 화학물의 제작 및 납품",
+        "절": "제1절 화학물의 제작 등",
+        "조": "제10조(유독물질 등의 사용금지)",
+        "쪽": 6
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제2장 화학물의 제작 및 납품",
+          "절": "제1절 화학물의 제작 등",
+          "조": "제10조(유독물질 등의 사용금지)",
+          "쪽": 6,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제2장 화학물의 제작 및 납품",
+        "절": "제1절 화학물의 제작 등",
+        "조": "제11조(안전관리 등)",
+        "쪽": 6
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제2장 화학물의 제작 및 납품",
+          "절": "제1절 화학물의 제작 등",
+          "조": "제11조(안전관리 등)",
+          "쪽": 6,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제2장 화학물의 제작 및 납품",
+        "절": "제1절 화학물의 제작 등",
+        "조": "제12조(수급사업자의 안전조치 의무)",
+        "쪽": 7
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제2장 화학물의 제작 및 납품",
+          "절": "제1절 화학물의 제작 등",
+          "조": "제12조(수급사업자의 안전조치 의무)",
+          "쪽": 7,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제2장 화학물의 제작 및 납품",
+        "절": "제1절 화학물의 제작 등",
+        "조": "제13조(산업안전보건관리비)",
+        "쪽": 8
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제2장 화학물의 제작 및 납품",
+          "절": "제1절 화학물의 제작 등",
+          "조": "제13조(산업안전보건관리비)",
+          "쪽": 8,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제2장 화학물의 제작 및 납품",
+        "절": "제1절 화학물의 제작 등",
+        "조": "제14조(원부자재등의 제공)",
+        "쪽": 8
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제2장 화학물의 제작 및 납품",
+          "절": "제1절 화학물의 제작 등",
+          "조": "제14조(원부자재등의 제공)",
+          "쪽": 8,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제2장 화학물의 제작 및 납품",
+        "절": "제1절 화학물의 제작 등",
+        "조": "제15조(원부자재등의 소유권 및 재매매의 예약)",
+        "쪽": 9
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제2장 화학물의 제작 및 납품",
+          "절": "제1절 화학물의 제작 등",
+          "조": "제15조(원부자재등의 소유권 및 재매매의 예약)",
+          "쪽": 9,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제2장 화학물의 제작 및 납품",
+        "절": "제1절 화학물의 제작 등",
+        "조": "제16조(설비 등의 양도 또는 대여 및 관리)",
+        "쪽": 10
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제2장 화학물의 제작 및 납품",
+          "절": "제1절 화학물의 제작 등",
+          "조": "제16조(설비 등의 양도 또는 대여 및 관리)",
+          "쪽": 10,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제2장 화학물의 제작 및 납품",
+        "절": "제1절 화학물의 제작 등",
+        "조": "제17조(금형의 제작 등)",
+        "쪽": 11
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제2장 화학물의 제작 및 납품",
+          "절": "제1절 화학물의 제작 등",
+          "조": "제17조(금형의 제작 등)",
+          "쪽": 11,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제2장 화학물의 제작 및 납품",
+        "절": "제1절 화학물의 제작 등",
+        "조": "제18조(품질검사 등)",
+        "쪽": 12
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제2장 화학물의 제작 및 납품",
+          "절": "제1절 화학물의 제작 등",
+          "조": "제18조(품질검사 등)",
+          "쪽": 12,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제2장 화학물의 제작 및 납품",
+        "절": "제1절 화학물의 제작 등",
+        "조": "제19조(재하도급)",
+        "쪽": 12
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제2장 화학물의 제작 및 납품",
+          "절": "제1절 화학물의 제작 등",
+          "조": "제19조(재하도급)",
+          "쪽": 12,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제2장 화학물의 제작 및 납품",
+        "절": "제1절 화학물의 제작 등",
+        "조": "제20조(주문 이외 제품의 제조, 판매, 수출, 사용의 금지)",
+        "쪽": 13
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제2장 화학물의 제작 및 납품",
+          "절": "제1절 화학물의 제작 등",
+          "조": "제20조(주문 이외 제품의 제조, 판매, 수출, 사용의 금지)",
+          "쪽": 13,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제2장 화학물의 제작 및 납품",
+        "절": "제2절 화학물의 납품 및 검사",
+        "조": "제21조(납기)",
+        "쪽": 13
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제2장 화학물의 제작 및 납품",
+          "절": "제2절 화학물의 납품 및 검사",
+          "조": "제21조(납기)",
+          "쪽": 13,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제2장 화학물의 제작 및 납품",
+        "절": "제2절 화학물의 납품 및 검사",
+        "조": "제22조(포장 및 운송)",
+        "쪽": 13
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제2장 화학물의 제작 및 납품",
+          "절": "제2절 화학물의 납품 및 검사",
+          "조": "제22조(포장 및 운송)",
+          "쪽": 13,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제2장 화학물의 제작 및 납품",
+        "절": "제2절 화학물의 납품 및 검사",
+        "조": "제23조(목적물의 수령)",
+        "쪽": 13
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제2장 화학물의 제작 및 납품",
+          "절": "제2절 화학물의 납품 및 검사",
+          "조": "제23조(목적물의 수령)",
+          "쪽": 13,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제2장 화학물의 제작 및 납품",
+        "절": "제2절 화학물의 납품 및 검사",
+        "조": "제24조(검사 및 이의신청)",
+        "쪽": 14
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제2장 화학물의 제작 및 납품",
+          "절": "제2절 화학물의 납품 및 검사",
+          "조": "제24조(검사 및 이의신청)",
+          "쪽": 14,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제2장 화학물의 제작 및 납품",
+        "절": "제2절 화학물의 납품 및 검사",
+        "조": "제25조(부당한 위탁취소 및 부당반품 금지)",
+        "쪽": 14
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제2장 화학물의 제작 및 납품",
+          "절": "제2절 화학물의 납품 및 검사",
+          "조": "제25조(부당한 위탁취소 및 부당반품 금지)",
+          "쪽": 14,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제2장 화학물의 제작 및 납품",
+        "절": "제2절 화학물의 납품 및 검사",
+        "조": "제26조(부족분․불합격품 및 과납품의 처리)",
+        "쪽": 14
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제2장 화학물의 제작 및 납품",
+          "절": "제2절 화학물의 납품 및 검사",
+          "조": "제26조(부족분․불합격품 및 과납품의 처리)",
+          "쪽": 14,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제2장 화학물의 제작 및 납품",
+        "절": "제2절 화학물의 납품 및 검사",
+        "조": "제27조(목적물의 소유권 이전)",
+        "쪽": 15
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제2장 화학물의 제작 및 납품",
+          "절": "제2절 화학물의 납품 및 검사",
+          "조": "제27조(목적물의 소유권 이전)",
+          "쪽": 15,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제2장 화학물의 제작 및 납품",
+        "절": "제2절 화학물의 납품 및 검사",
+        "조": "제28조(기술자료제공 요구금지 등)",
+        "쪽": 15
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제2장 화학물의 제작 및 납품",
+          "절": "제2절 화학물의 납품 및 검사",
+          "조": "제28조(기술자료제공 요구금지 등)",
+          "쪽": 15,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제2장 화학물의 제작 및 납품",
+        "절": "제2절 화학물의 납품 및 검사",
+        "조": "제29조(기술자료 임치)",
+        "쪽": 16
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제2장 화학물의 제작 및 납품",
+          "절": "제2절 화학물의 납품 및 검사",
+          "조": "제29조(기술자료 임치)",
+          "쪽": 16,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제2장 화학물의 제작 및 납품",
+        "절": "제2절 화학물의 납품 및 검사",
+        "조": "제30조(지식재산권 등의 실시 및 보증)",
+        "쪽": 16
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제2장 화학물의 제작 및 납품",
+          "절": "제2절 화학물의 납품 및 검사",
+          "조": "제30조(지식재산권 등의 실시 및 보증)",
+          "쪽": 16,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제3장 하도급대금의 조정 및 지급",
+        "절": "제1절 하도급 대금의 조정",
+        "조": "제31조(부당한 하도급대금의 결정 금지)",
+        "쪽": 17
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제3장 하도급대금의 조정 및 지급",
+          "절": "제1절 하도급 대금의 조정",
+          "조": "제31조(부당한 하도급대금의 결정 금지)",
+          "쪽": 17,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제3장 하도급대금의 조정 및 지급",
+        "절": "제1절 하도급 대금의 조정",
+        "조": "제32조(감액금지)",
+        "쪽": 18
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제3장 하도급대금의 조정 및 지급",
+          "절": "제1절 하도급 대금의 조정",
+          "조": "제32조(감액금지)",
+          "쪽": 18,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제3장 하도급대금의 조정 및 지급",
+        "절": "제1절 하도급 대금의 조정",
+        "조": "제33조(설계변경 등에 따른 계약금액의 조정)",
+        "쪽": 19
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제3장 하도급대금의 조정 및 지급",
+          "절": "제1절 하도급 대금의 조정",
+          "조": "제33조(설계변경 등에 따른 계약금액의 조정)",
+          "쪽": 19,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제3장 하도급대금의 조정 및 지급",
+        "절": "제1절 하도급 대금의 조정",
+        "조": "제34조(공급원가 등의 변동으로 인한 하도급대금의 조정)",
+        "쪽": 19
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제3장 하도급대금의 조정 및 지급",
+          "절": "제1절 하도급 대금의 조정",
+          "조": "제34조(공급원가 등의 변동으로 인한 하도급대금의 조정)",
+          "쪽": 19,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제3장 하도급대금의 조정 및 지급",
+        "절": "제1절 하도급 대금의 조정",
+        "조": "제34조의2(하도급대금의 연동)",
+        "쪽": 20
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제3장 하도급대금의 조정 및 지급",
+          "절": "제1절 하도급 대금의 조정",
+          "조": "제34조의2(하도급대금의 연동)",
+          "쪽": 20,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제3장 하도급대금의 조정 및 지급",
+        "절": "제2절 대금의 지급",
+        "조": "제35조(선급금)",
+        "쪽": 21
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제3장 하도급대금의 조정 및 지급",
+          "절": "제2절 대금의 지급",
+          "조": "제35조(선급금)",
+          "쪽": 21,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제3장 하도급대금의 조정 및 지급",
+        "절": "제2절 대금의 지급",
+        "조": "제36조(발주자의 선급금)",
+        "쪽": 21
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제3장 하도급대금의 조정 및 지급",
+          "절": "제2절 대금의 지급",
+          "조": "제36조(발주자의 선급금)",
+          "쪽": 21,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제3장 하도급대금의 조정 및 지급",
+        "절": "제2절 대금의 지급",
+        "조": "제37조(대금의 지급 등)",
+        "쪽": 22
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제3장 하도급대금의 조정 및 지급",
+          "절": "제2절 대금의 지급",
+          "조": "제37조(대금의 지급 등)",
+          "쪽": 22,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제3장 하도급대금의 조정 및 지급",
+        "절": "제2절 대금의 지급",
+        "조": "제38조(발주자의 직접 지급)",
+        "쪽": 23
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제3장 하도급대금의 조정 및 지급",
+          "절": "제2절 대금의 지급",
+          "조": "제38조(발주자의 직접 지급)",
+          "쪽": 23,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제3장 하도급대금의 조정 및 지급",
+        "절": "제2절 대금의 지급",
+        "조": "제39조(부당한 대물변제 금지)",
+        "쪽": 24
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제3장 하도급대금의 조정 및 지급",
+          "절": "제2절 대금의 지급",
+          "조": "제39조(부당한 대물변제 금지)",
+          "쪽": 24,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제3장 하도급대금의 조정 및 지급",
+        "절": "제2절 대금의 지급",
+        "조": "제40조(내국신용장 개설)",
+        "쪽": 25
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제3장 하도급대금의 조정 및 지급",
+          "절": "제2절 대금의 지급",
+          "조": "제40조(내국신용장 개설)",
+          "쪽": 25,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제3장 하도급대금의 조정 및 지급",
+        "절": "제2절 대금의 지급",
+        "조": "제41조(관세 등 환급액의 지급)",
+        "쪽": 25
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제3장 하도급대금의 조정 및 지급",
+          "절": "제2절 대금의 지급",
+          "조": "제41조(관세 등 환급액의 지급)",
+          "쪽": 25,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제4장 보칙",
+        "절": "",
+        "조": "제42조(채권․채무의 양도금지)",
+        "쪽": 25
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제4장 보칙",
+          "절": "",
+          "조": "제42조(채권․채무의 양도금지)",
+          "쪽": 25,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제4장 보칙",
+        "절": "",
+        "조": "제43조(비밀유지)",
+        "쪽": 25
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제4장 보칙",
+          "절": "",
+          "조": "제43조(비밀유지)",
+          "쪽": 25,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제4장 보칙",
+        "절": "",
+        "조": "제44조(개별약정)",
+        "쪽": 26
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제4장 보칙",
+          "절": "",
+          "조": "제44조(개별약정)",
+          "쪽": 26,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제4장 보칙",
+        "절": "",
+        "조": "제45조(계약 이외의 사항)",
+        "쪽": 26
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제4장 보칙",
+          "절": "",
+          "조": "제45조(계약 이외의 사항)",
+          "쪽": 26,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제4장 보칙",
+        "절": "",
+        "조": "제46조(계약의 변경)",
+        "쪽": 26
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제4장 보칙",
+          "절": "",
+          "조": "제46조(계약의 변경)",
+          "쪽": 26,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제4장 보칙",
+        "절": "",
+        "조": "제47조(부당한 특약과 효력)",
+        "쪽": 27
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제4장 보칙",
+          "절": "",
+          "조": "제47조(부당한 특약과 효력)",
+          "쪽": 27,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제4장 보칙",
+        "절": "",
+        "조": "제48조(목적물의 개선제안에 대한 상호협력)",
+        "쪽": 28
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제4장 보칙",
+          "절": "",
+          "조": "제48조(목적물의 개선제안에 대한 상호협력)",
+          "쪽": 28,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제4장 보칙",
+        "절": "",
+        "조": "제49조(환경오염의 최소화)",
+        "쪽": 28
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제4장 보칙",
+          "절": "",
+          "조": "제49조(환경오염의 최소화)",
+          "쪽": 28,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제4장 보칙",
+        "절": "",
+        "조": "제50조(보복조치 금지)",
+        "쪽": 28
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제4장 보칙",
+          "절": "",
+          "조": "제50조(보복조치 금지)",
+          "쪽": 28,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제5장 피해구제 및 분쟁해결",
+        "절": "",
+        "조": "제51조(손해배상)",
+        "쪽": 29
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제5장 피해구제 및 분쟁해결",
+          "절": "",
+          "조": "제51조(손해배상)",
+          "쪽": 29,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제5장 피해구제 및 분쟁해결",
+        "절": "",
+        "조": "제51조의2(손해액의 추정 등)",
+        "쪽": 29
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제5장 피해구제 및 분쟁해결",
+          "절": "",
+          "조": "제51조의2(손해액의 추정 등)",
+          "쪽": 29,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제5장 피해구제 및 분쟁해결",
+        "절": "",
+        "조": "제52조(지체상금)",
+        "쪽": 30
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제5장 피해구제 및 분쟁해결",
+          "절": "",
+          "조": "제52조(지체상금)",
+          "쪽": 30,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제5장 피해구제 및 분쟁해결",
+        "절": "",
+        "조": "제53조(하자담보책임)",
+        "쪽": 30
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제5장 피해구제 및 분쟁해결",
+          "절": "",
+          "조": "제53조(하자담보책임)",
+          "쪽": 30,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제5장 피해구제 및 분쟁해결",
+        "절": "",
+        "조": "제54조(계약의 해제 또는 해지)",
+        "쪽": 31
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제5장 피해구제 및 분쟁해결",
+          "절": "",
+          "조": "제54조(계약의 해제 또는 해지)",
+          "쪽": 31,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제5장 피해구제 및 분쟁해결",
+        "절": "",
+        "조": "제55조(분쟁해결)",
+        "쪽": 32
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제5장 피해구제 및 분쟁해결",
+          "절": "",
+          "조": "제55조(분쟁해결)",
+          "쪽": 32,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "화학업종 표준하도급 기본계약서(본문)",
+        "장": "제5장 피해구제 및 분쟁해결",
+        "절": "",
+        "조": "제56조(재판관할)",
+        "쪽": 33
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "화학업종 표준하도급 기본계약서(본문)",
+          "장": "제5장 피해구제 및 분쟁해결",
+          "절": "",
+          "조": "제56조(재판관할)",
+          "쪽": 33,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "비밀유지계약서",
+        "장": "",
+        "절": "",
+        "조": "",
+        "쪽": 34
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "비밀유지계약서",
+          "장": "",
+          "절": "",
+          "조": "",
+          "쪽": 34,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "비밀유지계약서",
+        "장": "",
+        "절": "",
+        "조": "제1조(계약의 목적)",
+        "쪽": 34
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "비밀유지계약서",
+          "장": "",
+          "절": "",
+          "조": "제1조(계약의 목적)",
+          "쪽": 34,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "비밀유지계약서",
+        "장": "",
+        "절": "",
+        "조": "제2조(비밀정보의 정의)",
+        "쪽": 34
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "비밀유지계약서",
+          "장": "",
+          "절": "",
+          "조": "제2조(비밀정보의 정의)",
+          "쪽": 34,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "비밀유지계약서",
+        "장": "",
+        "절": "",
+        "조": "제3조(비밀의 표시)",
+        "쪽": 34
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "비밀유지계약서",
+          "장": "",
+          "절": "",
+          "조": "제3조(비밀의 표시)",
+          "쪽": 34,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "비밀유지계약서",
+        "장": "",
+        "절": "",
+        "조": "제4조(정보의 사용용도 및 정보취급자 제한)",
+        "쪽": 34
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "비밀유지계약서",
+          "장": "",
+          "절": "",
+          "조": "제4조(정보의 사용용도 및 정보취급자 제한)",
+          "쪽": 34,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "비밀유지계약서",
+        "장": "",
+        "절": "",
+        "조": "제5조(비밀유지의무)",
+        "쪽": 35
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "비밀유지계약서",
+          "장": "",
+          "절": "",
+          "조": "제5조(비밀유지의무)",
+          "쪽": 35,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "비밀유지계약서",
+        "장": "",
+        "절": "",
+        "조": "제6조(자료의 반환)",
+        "쪽": 35
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "비밀유지계약서",
+          "장": "",
+          "절": "",
+          "조": "제6조(자료의 반환)",
+          "쪽": 35,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "비밀유지계약서",
+        "장": "",
+        "절": "",
+        "조": "제7조(권리의 부존재 등)",
+        "쪽": 35
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "비밀유지계약서",
+          "장": "",
+          "절": "",
+          "조": "제7조(권리의 부존재 등)",
+          "쪽": 35,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "비밀유지계약서",
+        "장": "",
+        "절": "",
+        "조": "제8조(계약기간)",
+        "쪽": 36
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "비밀유지계약서",
+          "장": "",
+          "절": "",
+          "조": "제8조(계약기간)",
+          "쪽": 36,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "비밀유지계약서",
+        "장": "",
+        "절": "",
+        "조": "제9조(손해배상)",
+        "쪽": 36
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "비밀유지계약서",
+          "장": "",
+          "절": "",
+          "조": "제9조(손해배상)",
+          "쪽": 36,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "비밀유지계약서",
+        "장": "",
+        "절": "",
+        "조": "제10조(권리의무의 양도, 계약의 변경)",
+        "쪽": 36
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "비밀유지계약서",
+          "장": "",
+          "절": "",
+          "조": "제10조(권리의무의 양도, 계약의 변경)",
+          "쪽": 36,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "비밀유지계약서",
+        "장": "",
+        "절": "",
+        "조": "제11조(일부무효의 특칙)",
+        "쪽": 36
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "비밀유지계약서",
+          "장": "",
+          "절": "",
+          "조": "제11조(일부무효의 특칙)",
+          "쪽": 36,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "비밀유지계약서",
+        "장": "",
+        "절": "",
+        "조": "제12조(분쟁의 해결)",
+        "쪽": 36
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "비밀유지계약서",
+          "장": "",
+          "절": "",
+          "조": "제12조(분쟁의 해결)",
+          "쪽": 36,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "하도급대금 직접지급 합의서",
+        "장": "",
+        "절": "",
+        "조": "",
+        "쪽": 38
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "하도급대금 직접지급 합의서",
+          "장": "",
+          "절": "",
+          "조": "",
+          "쪽": 38,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "표준 연동계약서",
+        "장": "",
+        "절": "",
+        "조": "",
+        "쪽": 39
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "표준 연동계약서",
+          "장": "",
+          "절": "",
+          "조": "",
+          "쪽": 39,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "표준 연동계약서",
+        "장": "",
+        "절": "",
+        "조": "제1조(목적)",
+        "쪽": 39
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "표준 연동계약서",
+          "장": "",
+          "절": "",
+          "조": "제1조(목적)",
+          "쪽": 39,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "표준 연동계약서",
+        "장": "",
+        "절": "",
+        "조": "제2조(정의)",
+        "쪽": 39
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "표준 연동계약서",
+          "장": "",
+          "절": "",
+          "조": "제2조(정의)",
+          "쪽": 39,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "표준 연동계약서",
+        "장": "",
+        "절": "",
+        "조": "제3조(하도급대금등 연동 대상 주요 원재료)",
+        "쪽": 40
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "표준 연동계약서",
+          "장": "",
+          "절": "",
+          "조": "제3조(하도급대금등 연동 대상 주요 원재료)",
+          "쪽": 40,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "표준 연동계약서",
+        "장": "",
+        "절": "",
+        "조": "제4조(하도급대금등 연동 대상 주요 원재료 가격의 기준지표)",
+        "쪽": 40
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "표준 연동계약서",
+          "장": "",
+          "절": "",
+          "조": "제4조(하도급대금등 연동 대상 주요 원재료 가격의 기준지표)",
+          "쪽": 40,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "표준 연동계약서",
+        "장": "",
+        "절": "",
+        "조": "제5조(｢하도급대금등 연동표｣의 작성)",
+        "쪽": 40
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "표준 연동계약서",
+          "장": "",
+          "절": "",
+          "조": "제5조(｢하도급대금등 연동표｣의 작성)",
+          "쪽": 40,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "표준 연동계약서",
+        "장": "",
+        "절": "",
+        "조": "제6조(하도급대금등 연동 절차)",
+        "쪽": 40
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "표준 연동계약서",
+          "장": "",
+          "절": "",
+          "조": "제6조(하도급대금등 연동 절차)",
+          "쪽": 40,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "표준 연동계약서",
+        "장": "",
+        "절": "",
+        "조": "제7조(해석 등)",
+        "쪽": 41
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "표준 연동계약서",
+          "장": "",
+          "절": "",
+          "조": "제7조(해석 등)",
+          "쪽": 41,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "표준 연동계약서",
+        "장": "",
+        "절": "",
+        "조": "제8조(금지행위)",
+        "쪽": 41
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "표준 미연동계약서",
+          "장": "",
+          "절": "",
+          "조": "제3조(금지행위)",
+          "쪽": 45,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "하도급대금등 연동표",
+        "장": "",
+        "절": "",
+        "조": "",
+        "쪽": 43
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "하도급대금등 연동표",
+          "장": "",
+          "절": "",
+          "조": "",
+          "쪽": 43,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "하도급대금등 변동표",
+        "장": "",
+        "절": "",
+        "조": "",
+        "쪽": 44
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "하도급대금등 변동표",
+          "장": "",
+          "절": "",
+          "조": "",
+          "쪽": 44,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "표준 미연동계약서",
+        "장": "",
+        "절": "",
+        "조": "",
+        "쪽": 45
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "표준 미연동계약서",
+          "장": "",
+          "절": "",
+          "조": "",
+          "쪽": 45,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "표준 미연동계약서",
+        "장": "",
+        "절": "",
+        "조": "제1조(하도급대금등 미연동 합의)",
+        "쪽": 45
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "표준 미연동계약서",
+          "장": "",
+          "절": "",
+          "조": "제1조(하도급대금등 미연동 합의)",
+          "쪽": 45,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "표준 미연동계약서",
+        "장": "",
+        "절": "",
+        "조": "제2조(해석)",
+        "쪽": 45
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "표준 미연동계약서",
+          "장": "",
+          "절": "",
+          "조": "제2조(해석)",
+          "쪽": 45,
+          "유사도_순위": 1
+        }
+      ]
+    },
+    {
+      "page_info": {
+        "제목": "표준 미연동계약서",
+        "장": "",
+        "절": "",
+        "조": "제3조(금지행위)",
+        "쪽": 45
+      },
+      "has_issues": false,
+      "analysis": {
+        "changed_clauses": [],
+        "missing_clauses": [],
+        "added_clauses": [],
+        "error": "Parameter validation failed:\nUnknown parameter in messages[1].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in messages[4].content[0]: \"cachePoint\", must be one of: text, image, document, video, toolUse, toolResult, guardContent, reasoningContent\nUnknown parameter in inferenceConfig: \"topK\", must be one of: maxTokens, temperature, topP, stopSequences"
+      },
+      "reference_metadata": [
+        {
+          "제목": "표준 미연동계약서",
+          "장": "",
+          "절": "",
+          "조": "제3조(금지행위)",
+          "쪽": 45,
+          "유사도_순위": 1
+        }
+      ]
+    }
+  ],
+  "processing_time": "3.26초"
+}

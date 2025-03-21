@@ -1,0 +1,19 @@
+# Python 관련
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.egg-info/
+
+# 가상환경
+doc/
+
+# 임시 파일
+temp/
+*.log
+
+# 데이터베이스나 실행 결과물
+data/vectordb/
