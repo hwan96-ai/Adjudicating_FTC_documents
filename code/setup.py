@@ -15,11 +15,14 @@ def setup():
     temp_folder = os.path.join(project_root, "temp", "temp_json")
     unfair_output_folder = os.path.join(project_root, "data", "unfair_contracts")
 
-    if os.path.exists(vectordb_dir):
-        os.system(f"chmod -R 777 {vectordb_dir}")
-    else:
+    # if os.path.exists(vectordb_dir):
+    #     os.system(f"chmod -R 777 {vectordb_dir}")
+    # else:
+    #     os.makedirs(vectordb_dir, exist_ok=True)
+    #     os.system(f"chmod -R 777 {vectordb_dir}")
+    # 수정된 코드
+    if not os.path.exists(vectordb_dir):
         os.makedirs(vectordb_dir, exist_ok=True)
-        os.system(f"chmod -R 777 {vectordb_dir}")
 
     # 1. PDF를 JSON으로 변환하고 병합
     processor = DocumentProcessor()
